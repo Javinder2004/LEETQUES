@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Javinder2004/LEETQUES/tree/master/0242-valid-anagram) |
 | [0561-array-partition](https://github.com/Javinder2004/LEETQUES/tree/master/0561-array-partition) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Javinder2004/LEETQUES/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting Sort
@@ -38,4 +39,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Javinder2004/LEETQUES/tree/master/1480-running-sum-of-1d-array) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Javinder2004/LEETQUES/tree/master/0242-valid-anagram) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Javinder2004/LEETQUES/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
