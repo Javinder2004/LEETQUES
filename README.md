@@ -5,10 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Javinder2004/LEETQUES/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/Javinder2004/LEETQUES/tree/master/0189-rotate-array) |
 | [3516-find-closest-person](https://github.com/Javinder2004/LEETQUES/tree/master/3516-find-closest-person) |
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Javinder2004/LEETQUES/tree/master/0189-rotate-array) |
 | [0561-array-partition](https://github.com/Javinder2004/LEETQUES/tree/master/0561-array-partition) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Javinder2004/LEETQUES/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Javinder2004/LEETQUES/tree/master/1480-running-sum-of-1d-array) |
@@ -50,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Javinder2004/LEETQUES/tree/master/0242-valid-anagram) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Javinder2004/LEETQUES/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
