@@ -21,12 +21,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Javinder2004/LEETQUES/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Javinder2004/LEETQUES/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Javinder2004/LEETQUES/tree/master/1732-find-the-highest-altitude) |
+| [1920-build-array-from-permutation](https://github.com/Javinder2004/LEETQUES/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Javinder2004/LEETQUES/tree/master/1929-concatenation-of-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Javinder2004/LEETQUES/tree/master/2574-left-and-right-sum-differences) |
 | [2706-buy-two-chocolates](https://github.com/Javinder2004/LEETQUES/tree/master/2706-buy-two-chocolates) |
 ## Simulation
 |  |
 | ------- |
+| [1920-build-array-from-permutation](https://github.com/Javinder2004/LEETQUES/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Javinder2004/LEETQUES/tree/master/1929-concatenation-of-array) |
 ## Greedy
 |  |
