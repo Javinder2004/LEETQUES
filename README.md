@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Javinder2004/LEETQUES/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Javinder2004/LEETQUES/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Javinder2004/LEETQUES/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/Javinder2004/LEETQUES/tree/master/0410-split-array-largest-sum) |
 | [0561-array-partition](https://github.com/Javinder2004/LEETQUES/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/Javinder2004/LEETQUES/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Javinder2004/LEETQUES/tree/master/0724-find-pivot-index) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Javinder2004/LEETQUES/tree/master/0410-split-array-largest-sum) |
 | [0561-array-partition](https://github.com/Javinder2004/LEETQUES/tree/master/0561-array-partition) |
 | [2706-buy-two-chocolates](https://github.com/Javinder2004/LEETQUES/tree/master/2706-buy-two-chocolates) |
 ## Sorting
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Javinder2004/LEETQUES/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/Javinder2004/LEETQUES/tree/master/0410-split-array-largest-sum) |
 | [0724-find-pivot-index](https://github.com/Javinder2004/LEETQUES/tree/master/0724-find-pivot-index) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Javinder2004/LEETQUES/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Javinder2004/LEETQUES/tree/master/1480-running-sum-of-1d-array) |
@@ -75,5 +78,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Javinder2004/LEETQUES/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/Javinder2004/LEETQUES/tree/master/0704-binary-search) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/Javinder2004/LEETQUES/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
