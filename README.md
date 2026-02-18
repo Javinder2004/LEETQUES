@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Javinder2004/LEETQUES/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Javinder2004/LEETQUES/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/Javinder2004/LEETQUES/tree/master/0189-rotate-array) |
 | [3516-find-closest-person](https://github.com/Javinder2004/LEETQUES/tree/master/3516-find-closest-person) |
@@ -90,4 +91,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Javinder2004/LEETQUES/tree/master/0410-split-array-largest-sum) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Javinder2004/LEETQUES/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Javinder2004/LEETQUES/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
