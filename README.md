@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Javinder2004/LEETQUES/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Javinder2004/LEETQUES/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/Javinder2004/LEETQUES/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Javinder2004/LEETQUES/tree/master/0189-rotate-array) |
 | [1512-number-of-good-pairs](https://github.com/Javinder2004/LEETQUES/tree/master/1512-number-of-good-pairs) |
 | [3516-find-closest-person](https://github.com/Javinder2004/LEETQUES/tree/master/3516-find-closest-person) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Javinder2004/LEETQUES/tree/master/0069-sqrtx) |
 | [0410-split-array-largest-sum](https://github.com/Javinder2004/LEETQUES/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/Javinder2004/LEETQUES/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Javinder2004/LEETQUES/tree/master/0875-koko-eating-bananas) |
