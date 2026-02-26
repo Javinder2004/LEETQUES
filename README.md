@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Javinder2004/LEETQUES/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/Javinder2004/LEETQUES/tree/master/0875-koko-eating-bananas) |
 | [0896-monotonic-array](https://github.com/Javinder2004/LEETQUES/tree/master/0896-monotonic-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/Javinder2004/LEETQUES/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Javinder2004/LEETQUES/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Javinder2004/LEETQUES/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Javinder2004/LEETQUES/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Javinder2004/LEETQUES/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/Javinder2004/LEETQUES/tree/master/0410-split-array-largest-sum) |
 | [0724-find-pivot-index](https://github.com/Javinder2004/LEETQUES/tree/master/0724-find-pivot-index) |
+| [1004-max-consecutive-ones-iii](https://github.com/Javinder2004/LEETQUES/tree/master/1004-max-consecutive-ones-iii) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Javinder2004/LEETQUES/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Javinder2004/LEETQUES/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Javinder2004/LEETQUES/tree/master/1732-find-the-highest-altitude) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Javinder2004/LEETQUES/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/Javinder2004/LEETQUES/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Javinder2004/LEETQUES/tree/master/0875-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/Javinder2004/LEETQUES/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Javinder2004/LEETQUES/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Dynamic Programming
 |  |
@@ -116,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Javinder2004/LEETQUES/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Javinder2004/LEETQUES/tree/master/0190-reverse-bits) |
+## Sliding Window
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Javinder2004/LEETQUES/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
