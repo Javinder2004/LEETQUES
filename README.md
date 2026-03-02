@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Javinder2004/LEETQUES/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Javinder2004/LEETQUES/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Javinder2004/LEETQUES/tree/master/0189-rotate-array) |
+| [0877-stone-game](https://github.com/Javinder2004/LEETQUES/tree/master/0877-stone-game) |
 | [1512-number-of-good-pairs](https://github.com/Javinder2004/LEETQUES/tree/master/1512-number-of-good-pairs) |
 | [3516-find-closest-person](https://github.com/Javinder2004/LEETQUES/tree/master/3516-find-closest-person) |
 ## Array
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Javinder2004/LEETQUES/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Javinder2004/LEETQUES/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/Javinder2004/LEETQUES/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/Javinder2004/LEETQUES/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/Javinder2004/LEETQUES/tree/master/0896-monotonic-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Javinder2004/LEETQUES/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Javinder2004/LEETQUES/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Javinder2004/LEETQUES/tree/master/0410-split-array-largest-sum) |
+| [0877-stone-game](https://github.com/Javinder2004/LEETQUES/tree/master/0877-stone-game) |
 ## Linked List
 |  |
 | ------- |
@@ -123,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Javinder2004/LEETQUES/tree/master/1004-max-consecutive-ones-iii) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Javinder2004/LEETQUES/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
