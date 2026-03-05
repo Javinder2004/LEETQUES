@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Javinder2004/LEETQUES/tree/master/0011-container-with-most-water) |
 | [0136-single-number](https://github.com/Javinder2004/LEETQUES/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Javinder2004/LEETQUES/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Javinder2004/LEETQUES/tree/master/0189-rotate-array) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Javinder2004/LEETQUES/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/Javinder2004/LEETQUES/tree/master/0410-split-array-largest-sum) |
 | [0561-array-partition](https://github.com/Javinder2004/LEETQUES/tree/master/0561-array-partition) |
 | [2706-buy-two-chocolates](https://github.com/Javinder2004/LEETQUES/tree/master/2706-buy-two-chocolates) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Javinder2004/LEETQUES/tree/master/0011-container-with-most-water) |
 | [0189-rotate-array](https://github.com/Javinder2004/LEETQUES/tree/master/0189-rotate-array) |
 ## Bit Manipulation
 |  |
