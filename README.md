@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Javinder2004/LEETQUES/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Javinder2004/LEETQUES/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Javinder2004/LEETQUES/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/Javinder2004/LEETQUES/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/Javinder2004/LEETQUES/tree/master/0042-trapping-rain-water) |
 | [0136-single-number](https://github.com/Javinder2004/LEETQUES/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Javinder2004/LEETQUES/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Javinder2004/LEETQUES/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Javinder2004/LEETQUES/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/Javinder2004/LEETQUES/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/Javinder2004/LEETQUES/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Javinder2004/LEETQUES/tree/master/0242-valid-anagram) |
 | [0561-array-partition](https://github.com/Javinder2004/LEETQUES/tree/master/0561-array-partition) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Javinder2004/LEETQUES/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Javinder2004/LEETQUES/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Javinder2004/LEETQUES/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/Javinder2004/LEETQUES/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/Javinder2004/LEETQUES/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Javinder2004/LEETQUES/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Javinder2004/LEETQUES/tree/master/0189-rotate-array) |
