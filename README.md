@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Javinder2004/LEETQUES/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/Javinder2004/LEETQUES/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Javinder2004/LEETQUES/tree/master/0724-find-pivot-index) |
+| [0867-transpose-matrix](https://github.com/Javinder2004/LEETQUES/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/Javinder2004/LEETQUES/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Javinder2004/LEETQUES/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/Javinder2004/LEETQUES/tree/master/0896-monotonic-array) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/Javinder2004/LEETQUES/tree/master/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/Javinder2004/LEETQUES/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Javinder2004/LEETQUES/tree/master/1929-concatenation-of-array) |
 ## Greedy
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/Javinder2004/LEETQUES/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Javinder2004/LEETQUES/tree/master/1572-matrix-diagonal-sum) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/Javinder2004/LEETQUES/tree/master/2319-check-if-matrix-is-x-matrix) |
 <!---LeetCode Topics End-->
