@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Javinder2004/LEETQUES/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Javinder2004/LEETQUES/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Javinder2004/LEETQUES/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/Javinder2004/LEETQUES/tree/master/0075-sort-colors) |
 | [0134-gas-station](https://github.com/Javinder2004/LEETQUES/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/Javinder2004/LEETQUES/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Javinder2004/LEETQUES/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Javinder2004/LEETQUES/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Javinder2004/LEETQUES/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Javinder2004/LEETQUES/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/Javinder2004/LEETQUES/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Javinder2004/LEETQUES/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Javinder2004/LEETQUES/tree/master/0242-valid-anagram) |
 | [0561-array-partition](https://github.com/Javinder2004/LEETQUES/tree/master/0561-array-partition) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Javinder2004/LEETQUES/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Javinder2004/LEETQUES/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/Javinder2004/LEETQUES/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/Javinder2004/LEETQUES/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Javinder2004/LEETQUES/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Javinder2004/LEETQUES/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/Javinder2004/LEETQUES/tree/master/0392-is-subsequence) |
