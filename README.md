@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Javinder2004/LEETQUES/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Javinder2004/LEETQUES/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Javinder2004/LEETQUES/tree/master/0189-rotate-array) |
+| [0292-nim-game](https://github.com/Javinder2004/LEETQUES/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/Javinder2004/LEETQUES/tree/master/0877-stone-game) |
 | [1512-number-of-good-pairs](https://github.com/Javinder2004/LEETQUES/tree/master/1512-number-of-good-pairs) |
 | [3516-find-closest-person](https://github.com/Javinder2004/LEETQUES/tree/master/3516-find-closest-person) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Javinder2004/LEETQUES/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/Javinder2004/LEETQUES/tree/master/0877-stone-game) |
 ## Stack
 |  |
@@ -182,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/Javinder2004/LEETQUES/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Javinder2004/LEETQUES/tree/master/1572-matrix-diagonal-sum) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/Javinder2004/LEETQUES/tree/master/2319-check-if-matrix-is-x-matrix) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Javinder2004/LEETQUES/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
