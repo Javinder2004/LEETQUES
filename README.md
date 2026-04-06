@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Javinder2004/LEETQUES/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Javinder2004/LEETQUES/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Javinder2004/LEETQUES/tree/master/0242-valid-anagram) |
+| [0771-jewels-and-stones](https://github.com/Javinder2004/LEETQUES/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/Javinder2004/LEETQUES/tree/master/1512-number-of-good-pairs) |
 ## String
 |  |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Javinder2004/LEETQUES/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/Javinder2004/LEETQUES/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/Javinder2004/LEETQUES/tree/master/0392-is-subsequence) |
+| [0771-jewels-and-stones](https://github.com/Javinder2004/LEETQUES/tree/master/0771-jewels-and-stones) |
 ## Two Pointers
 |  |
 | ------- |
