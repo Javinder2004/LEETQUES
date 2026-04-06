@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Javinder2004/LEETQUES/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/Javinder2004/LEETQUES/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Javinder2004/LEETQUES/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Javinder2004/LEETQUES/tree/master/0242-valid-anagram) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Javinder2004/LEETQUES/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Javinder2004/LEETQUES/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Javinder2004/LEETQUES/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/Javinder2004/LEETQUES/tree/master/0242-valid-anagram) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Javinder2004/LEETQUES/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/Javinder2004/LEETQUES/tree/master/1004-max-consecutive-ones-iii) |
 ## Game Theory
 |  |
