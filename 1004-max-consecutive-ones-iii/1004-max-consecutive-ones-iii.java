@@ -6,7 +6,7 @@ class Solution {
         int ans=0;
         int cnt0=0;
         while(tail<n){
-            while(head+1<n && cnt0+(1-nums[head+1])<=k ) {
+            while(head+1<n && cnt0+(1-nums[head+1])<=k) {
                 head++;
                 if(nums[head]==0){
                     cnt0++;
