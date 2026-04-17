@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Javinder2004/LEETQUES/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Javinder2004/LEETQUES/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/Javinder2004/LEETQUES/tree/master/0896-monotonic-array) |
+| [0904-fruit-into-baskets](https://github.com/Javinder2004/LEETQUES/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Javinder2004/LEETQUES/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Javinder2004/LEETQUES/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1109-corporate-flight-bookings](https://github.com/Javinder2004/LEETQUES/tree/master/1109-corporate-flight-bookings) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Javinder2004/LEETQUES/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Javinder2004/LEETQUES/tree/master/0424-longest-repeating-character-replacement) |
 | [0771-jewels-and-stones](https://github.com/Javinder2004/LEETQUES/tree/master/0771-jewels-and-stones) |
+| [0904-fruit-into-baskets](https://github.com/Javinder2004/LEETQUES/tree/master/0904-fruit-into-baskets) |
 | [1512-number-of-good-pairs](https://github.com/Javinder2004/LEETQUES/tree/master/1512-number-of-good-pairs) |
 ## String
 |  |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Javinder2004/LEETQUES/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Javinder2004/LEETQUES/tree/master/0424-longest-repeating-character-replacement) |
+| [0904-fruit-into-baskets](https://github.com/Javinder2004/LEETQUES/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Javinder2004/LEETQUES/tree/master/1004-max-consecutive-ones-iii) |
 ## Game Theory
 |  |
