@@ -1,5 +1,5 @@
-class Solution {
-    public int lengthOfLongestSubstring(String s) {
+class Solution{
+    public int lengthOfLongestSubstring(String s){
       int []freq=new int[256];
       int head=-1;
       int tail=0;
