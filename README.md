@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/Javinder2004/LEETQUES/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Javinder2004/LEETQUES/tree/master/1929-concatenation-of-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Javinder2004/LEETQUES/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2126-destroying-asteroids](https://github.com/Javinder2004/LEETQUES/tree/master/2126-destroying-asteroids) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/Javinder2004/LEETQUES/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2574-left-and-right-sum-differences](https://github.com/Javinder2004/LEETQUES/tree/master/2574-left-and-right-sum-differences) |
 | [2706-buy-two-chocolates](https://github.com/Javinder2004/LEETQUES/tree/master/2706-buy-two-chocolates) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Javinder2004/LEETQUES/tree/master/0561-array-partition) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Javinder2004/LEETQUES/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Javinder2004/LEETQUES/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2126-destroying-asteroids](https://github.com/Javinder2004/LEETQUES/tree/master/2126-destroying-asteroids) |
 | [2706-buy-two-chocolates](https://github.com/Javinder2004/LEETQUES/tree/master/2706-buy-two-chocolates) |
 ## Sorting
 |  |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Javinder2004/LEETQUES/tree/master/0242-valid-anagram) |
 | [0561-array-partition](https://github.com/Javinder2004/LEETQUES/tree/master/0561-array-partition) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Javinder2004/LEETQUES/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2126-destroying-asteroids](https://github.com/Javinder2004/LEETQUES/tree/master/2126-destroying-asteroids) |
 | [2706-buy-two-chocolates](https://github.com/Javinder2004/LEETQUES/tree/master/2706-buy-two-chocolates) |
 ## Counting Sort
 |  |
