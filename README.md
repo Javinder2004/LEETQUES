@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Javinder2004/LEETQUES/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/Javinder2004/LEETQUES/tree/master/0387-first-unique-character-in-a-string) |
 | [0561-array-partition](https://github.com/Javinder2004/LEETQUES/tree/master/0561-array-partition) |
 | [1512-number-of-good-pairs](https://github.com/Javinder2004/LEETQUES/tree/master/1512-number-of-good-pairs) |
 ## Heap (Priority Queue)
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Javinder2004/LEETQUES/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Javinder2004/LEETQUES/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Javinder2004/LEETQUES/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/Javinder2004/LEETQUES/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Javinder2004/LEETQUES/tree/master/0424-longest-repeating-character-replacement) |
 | [0771-jewels-and-stones](https://github.com/Javinder2004/LEETQUES/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/Javinder2004/LEETQUES/tree/master/0904-fruit-into-baskets) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Javinder2004/LEETQUES/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/Javinder2004/LEETQUES/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Javinder2004/LEETQUES/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Javinder2004/LEETQUES/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Javinder2004/LEETQUES/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/Javinder2004/LEETQUES/tree/master/0424-longest-repeating-character-replacement) |
 | [0771-jewels-and-stones](https://github.com/Javinder2004/LEETQUES/tree/master/0771-jewels-and-stones) |
@@ -245,4 +248,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Javinder2004/LEETQUES/tree/master/0169-majority-element) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Javinder2004/LEETQUES/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
