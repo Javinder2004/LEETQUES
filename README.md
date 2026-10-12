@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Javinder2004/LEETQUES/tree/master/1512-number-of-good-pairs) |
 | [1572-matrix-diagonal-sum](https://github.com/Javinder2004/LEETQUES/tree/master/1572-matrix-diagonal-sum) |
 | [1732-find-the-highest-altitude](https://github.com/Javinder2004/LEETQUES/tree/master/1732-find-the-highest-altitude) |
+| [1748-sum-of-unique-elements](https://github.com/Javinder2004/LEETQUES/tree/master/1748-sum-of-unique-elements) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Javinder2004/LEETQUES/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1920-build-array-from-permutation](https://github.com/Javinder2004/LEETQUES/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Javinder2004/LEETQUES/tree/master/1929-concatenation-of-array) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Javinder2004/LEETQUES/tree/master/0387-first-unique-character-in-a-string) |
 | [0561-array-partition](https://github.com/Javinder2004/LEETQUES/tree/master/0561-array-partition) |
 | [1512-number-of-good-pairs](https://github.com/Javinder2004/LEETQUES/tree/master/1512-number-of-good-pairs) |
+| [1748-sum-of-unique-elements](https://github.com/Javinder2004/LEETQUES/tree/master/1748-sum-of-unique-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/Javinder2004/LEETQUES/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/Javinder2004/LEETQUES/tree/master/0904-fruit-into-baskets) |
 | [1512-number-of-good-pairs](https://github.com/Javinder2004/LEETQUES/tree/master/1512-number-of-good-pairs) |
+| [1748-sum-of-unique-elements](https://github.com/Javinder2004/LEETQUES/tree/master/1748-sum-of-unique-elements) |
 ## String
 |  |
 | ------- |
