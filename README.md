@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Javinder2004/LEETQUES/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Javinder2004/LEETQUES/tree/master/1512-number-of-good-pairs) |
 | [1572-matrix-diagonal-sum](https://github.com/Javinder2004/LEETQUES/tree/master/1572-matrix-diagonal-sum) |
+| [1672-richest-customer-wealth](https://github.com/Javinder2004/LEETQUES/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/Javinder2004/LEETQUES/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/Javinder2004/LEETQUES/tree/master/1748-sum-of-unique-elements) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Javinder2004/LEETQUES/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Javinder2004/LEETQUES/tree/master/0073-set-matrix-zeroes) |
 | [0867-transpose-matrix](https://github.com/Javinder2004/LEETQUES/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Javinder2004/LEETQUES/tree/master/1572-matrix-diagonal-sum) |
+| [1672-richest-customer-wealth](https://github.com/Javinder2004/LEETQUES/tree/master/1672-richest-customer-wealth) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/Javinder2004/LEETQUES/tree/master/2319-check-if-matrix-is-x-matrix) |
 ## Brainteaser
 |  |
