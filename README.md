@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Javinder2004/LEETQUES/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1920-build-array-from-permutation](https://github.com/Javinder2004/LEETQUES/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Javinder2004/LEETQUES/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Javinder2004/LEETQUES/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Javinder2004/LEETQUES/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/Javinder2004/LEETQUES/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Javinder2004/LEETQUES/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/Javinder2004/LEETQUES/tree/master/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/Javinder2004/LEETQUES/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Javinder2004/LEETQUES/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Javinder2004/LEETQUES/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Greedy
 |  |
 | ------- |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/Javinder2004/LEETQUES/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/Javinder2004/LEETQUES/tree/master/1108-defanging-an-ip-address) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Javinder2004/LEETQUES/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Javinder2004/LEETQUES/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Two Pointers
 |  |
 | ------- |
