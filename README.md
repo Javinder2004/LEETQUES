@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Javinder2004/LEETQUES/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Javinder2004/LEETQUES/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Javinder2004/LEETQUES/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1089-duplicate-zeros](https://github.com/Javinder2004/LEETQUES/tree/master/1089-duplicate-zeros) |
 | [1109-corporate-flight-bookings](https://github.com/Javinder2004/LEETQUES/tree/master/1109-corporate-flight-bookings) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Javinder2004/LEETQUES/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Javinder2004/LEETQUES/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Javinder2004/LEETQUES/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Javinder2004/LEETQUES/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Javinder2004/LEETQUES/tree/master/0392-is-subsequence) |
+| [1089-duplicate-zeros](https://github.com/Javinder2004/LEETQUES/tree/master/1089-duplicate-zeros) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Javinder2004/LEETQUES/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Bit Manipulation
 |  |
