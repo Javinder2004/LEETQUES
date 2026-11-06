@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Javinder2004/LEETQUES/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Javinder2004/LEETQUES/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/Javinder2004/LEETQUES/tree/master/0410-split-array-largest-sum) |
+| [0496-next-greater-element-i](https://github.com/Javinder2004/LEETQUES/tree/master/0496-next-greater-element-i) |
 | [0561-array-partition](https://github.com/Javinder2004/LEETQUES/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/Javinder2004/LEETQUES/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Javinder2004/LEETQUES/tree/master/0724-find-pivot-index) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Javinder2004/LEETQUES/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Javinder2004/LEETQUES/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Javinder2004/LEETQUES/tree/master/0424-longest-repeating-character-replacement) |
+| [0496-next-greater-element-i](https://github.com/Javinder2004/LEETQUES/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/Javinder2004/LEETQUES/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/Javinder2004/LEETQUES/tree/master/0904-fruit-into-baskets) |
 | [1512-number-of-good-pairs](https://github.com/Javinder2004/LEETQUES/tree/master/1512-number-of-good-pairs) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Javinder2004/LEETQUES/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/Javinder2004/LEETQUES/tree/master/0496-next-greater-element-i) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Javinder2004/LEETQUES/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Javinder2004/LEETQUES/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Javinder2004/LEETQUES/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Javinder2004/LEETQUES/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/Javinder2004/LEETQUES/tree/master/0496-next-greater-element-i) |
 ## Matrix
 |  |
 | ------- |
