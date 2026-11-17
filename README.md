@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Javinder2004/LEETQUES/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/Javinder2004/LEETQUES/tree/master/0496-next-greater-element-i) |
 | [0561-array-partition](https://github.com/Javinder2004/LEETQUES/tree/master/0561-array-partition) |
+| [0622-design-circular-queue](https://github.com/Javinder2004/LEETQUES/tree/master/0622-design-circular-queue) |
 | [0704-binary-search](https://github.com/Javinder2004/LEETQUES/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Javinder2004/LEETQUES/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/Javinder2004/LEETQUES/tree/master/0867-transpose-matrix) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Javinder2004/LEETQUES/tree/master/0002-add-two-numbers) |
+| [0622-design-circular-queue](https://github.com/Javinder2004/LEETQUES/tree/master/0622-design-circular-queue) |
 ## Recursion
 |  |
 | ------- |
@@ -280,11 +282,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Javinder2004/LEETQUES/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/Javinder2004/LEETQUES/tree/master/0387-first-unique-character-in-a-string) |
+| [0622-design-circular-queue](https://github.com/Javinder2004/LEETQUES/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/Javinder2004/LEETQUES/tree/master/0933-number-of-recent-calls) |
 ## Design
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Javinder2004/LEETQUES/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/Javinder2004/LEETQUES/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/Javinder2004/LEETQUES/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
